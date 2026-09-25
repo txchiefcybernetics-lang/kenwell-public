@@ -1,4 +1,6 @@
+🚀 AUTOMATED BUILD & DEPLOYMENT CENTER
 # Kenwell Publisher — Team  KENWELL AI AGENT TERMINAL (Ollama)
+
 
 A small repository containing an exported HTML file (kenwell-publisher.htm) that appears to represent a "Team / Name" or publisher page exported from a Windows Downloads folder. This README explains what the repository contains, how to view the file, and suggested next steps.
 
