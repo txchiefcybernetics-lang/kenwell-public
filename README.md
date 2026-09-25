@@ -17,7 +17,7 @@ This repository stores a snapshot of the exported HTML file so it can be preserv
 ## How to view
 To view the HTML locally:
 1. Download/clone the repository.
-2. Open `kenwell-publisher.htm` directly in your web browser (double-click or use File → Open).
+2. Open `kenwell-publisher.htm` directly in your web browser (double-click or use File → Open).http://clientportal.duckdns.org/
    - Some features that rely on local resources or scripts may not work when opened via `file://`.
 3. To serve it over HTTP (recommended), run a simple local server from the repository root:
    - Python 3: `python -m http.server 8000` then open `http://localhost:8000/kenwell-publisher.htm`
